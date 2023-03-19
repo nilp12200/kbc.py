@@ -1,3 +1,4 @@
 # kbc.py
 for learning
-# output ![{9D199527-ED62-4B87-8116-0B80797C5E9F}](https://user-images.githubusercontent.com/112705642/226175058-6539163e-c8ab-43f6-86b4-18a85db122cc.png)
+# output
+<img width="1120" alt="{8942BAB3-EDAD-4DD1-A61F-4D3E6A6BDC91}" src="https://user-images.githubusercontent.com/112705642/226175224-4729ab81-5d3f-4531-bd9c-6e2a1418f29a.png">
